@@ -1,4 +1,4 @@
-# UPE2021_TecProg
+# UPE 2021 - Técnicas de Programación
 
 Técnicas de Programación - Universidad Provincial de Ezeiza
 
