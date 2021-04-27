@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.EntidadPersistible">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EntidadPersistible.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Usuario">
+    <Position X="10" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAQAAAAAAAAABAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Persona">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEACAAgQAAAAEAAAAAAAAAAEIAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_direccion" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Cliente">
+    <Position X="8.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Rol">
+    <Position X="4.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAEAAAAAAABAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Rol.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_permisos" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Entidades.Permiso">
+    <Position X="1" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Permiso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Sesion">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAgBAAAACAAAAAAAAAAAAAAAAAAAAEAIAAAAA=</HashCode>
+      <FileName>Sesion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_usuario" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Orden">
+    <Position X="12" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAEAAAAQAAEAAAAAAQAIAAAAAAAAAAA=</HashCode>
+      <FileName>Orden.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_detalles" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Entidades.Producto">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAIAAAAAAgAAAAgAQEAAAAAAAAAAAAAAIAEAA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_categoria" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Categoria">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.DetalleOrden">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAQAAAAAAAAgAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>DetalleOrden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.OrdenDeCompra">
+    <Position X="12.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAEAIAAAAAAQBAIAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>OrdenDeCompra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Proveedor">
+    <Position X="1.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAIACAAAAAAAAQAAAAAAAAAAUAAAAA=</HashCode>
+      <FileName>Proveedor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_direccion" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Direccion">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgEAAAABAAAAAAAACQQgAAAAEAAAAAAAAgA=</HashCode>
+      <FileName>Direccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.OrdenDeVenta">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAABAACAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>OrdenDeVenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.MetodoDePago">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MetodoDePago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Efectivo">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Efectivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Tarjeta">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAIAAAAAAAAAIAAAIIIAQAAABAA=</HashCode>
+      <FileName>Tarjeta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Deposito">
+    <Position X="16.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Deposito.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="stocks" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Entidades.Stock">
+    <Position X="15.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAQAAAAAAAAgAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Stock.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_producto" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidades.Reporte">
+    <Position X="14" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reporte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Alerta">
+    <Position X="14.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAQAAAAgAAACQAAAAAAAIAAAAA=</HashCode>
+      <FileName>Alerta.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_stock" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
