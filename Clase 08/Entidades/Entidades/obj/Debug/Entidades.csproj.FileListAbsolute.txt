@@ -1,0 +1,5 @@
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Entidades\Entidades\obj\Debug\Entidades.pdb

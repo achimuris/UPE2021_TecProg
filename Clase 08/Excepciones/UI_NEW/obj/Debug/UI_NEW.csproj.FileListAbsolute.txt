@@ -1,0 +1,15 @@
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\bin\Debug\UI_NEW.exe
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\bin\Debug\UI_NEW.pdb
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\bin\Debug\BLL.dll
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\bin\Debug\Entidades.dll
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\bin\Debug\DAL.dll
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\bin\Debug\BLL.pdb
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\bin\Debug\DAL.pdb
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\obj\Debug\UI_NEW.csprojAssemblyReference.cache
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\obj\Debug\UI_NEW.Form1.resources
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\obj\Debug\UI_NEW.Properties.Resources.resources
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\obj\Debug\UI_NEW.csproj.GenerateResource.cache
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\obj\Debug\UI_NEW.csproj.CoreCompileInputs.cache
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\obj\Debug\UI_NEW.csproj.CopyComplete
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\obj\Debug\UI_NEW.exe
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\UPE2021_TecProg\Clase 08\Excepciones\UI_NEW\obj\Debug\UI_NEW.pdb
