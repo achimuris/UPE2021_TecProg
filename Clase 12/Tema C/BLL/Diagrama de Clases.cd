@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Logica.Cliente">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAQAAAAAAAAAQEAAAAgAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.DetalleFactura">
+    <Position X="1.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAUAAAAAAAAEQAAAAAAAAgAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>DetalleFactura.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_producto" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Logica.Efectivo" Collapsed="true">
+    <Position X="4.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Efectivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.Empresa">
+    <Position X="7.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAABAAAAIQAAACAAAAAQBAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Empresa.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="formas" />
+      <Field Name="productos" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Logica.Factura">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABQAAEgAgAAAEAAICAAAEAABAAAAAAAACAAAABAQE=</HashCode>
+      <FileName>Factura.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_cliente" />
+      <Field Name="_formaDePago" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Logica.FormaDePago">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>FormaDePago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.Producto">
+    <Position X="4.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAIAAEA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.TarjetaDeCredito" Collapsed="true">
+    <Position X="2" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>TarjetaDeCredito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.TarjetaDeDebito" Collapsed="true">
+    <Position X="6.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>TarjetaDeDebito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,14 @@
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\bin\Debug\FrontDesktop.exe.config
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\bin\Debug\FrontDesktop.exe
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\bin\Debug\FrontDesktop.pdb
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\bin\Debug\Logica.dll
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\bin\Debug\Logica.pdb
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\obj\Debug\FrontDesktop.csprojAssemblyReference.cache
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\obj\Debug\FrontDesktop.frmPrincial.resources
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\obj\Debug\FrontDesktop.Properties.Resources.resources
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\obj\Debug\FrontDesktop.csproj.GenerateResource.cache
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\obj\Debug\FrontDesktop.csproj.CoreCompileInputs.cache
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\obj\Debug\FrontDesktop.csproj.CopyComplete
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\obj\Debug\FrontDesktop.exe
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\obj\Debug\FrontDesktop.pdb
+C:\Users\AR00111194\source\repos\Tema C\FrontDesktop\obj\Debug\FrontDesktop.frmDetalleFactura.resources
